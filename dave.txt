@@ -1,0 +1,13 @@
+ Volume in drive D is Data
+ Volume Serial Number is BC04-1CD4
+
+ Directory of D:\src\mergerepo\TestRepo2
+
+10/06/2018  08:15 AM    <DIR>          .
+10/06/2018  08:15 AM    <DIR>          ..
+10/06/2018  08:12 AM                56 .gitignore
+10/06/2018  08:15 AM                 0 dave.txt
+10/06/2018  08:12 AM             1,092 LICENSE
+10/06/2018  08:12 AM                24 README.md
+               4 File(s)          1,172 bytes
+               2 Dir(s)  156,958,212,096 bytes free
